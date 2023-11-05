@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iamjhae
+- 👋 Hi, Iamjhae
 - 👀 I’m interested in all sorts of Linux programming, python, cryptography, Penetration testing 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
