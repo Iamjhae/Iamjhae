@@ -26,6 +26,9 @@ Updating: My Journey to Cybersecurity Specialist.
 [twitter]: https://twitter.com/mhiztabjay
 [instagram]: https://www.instagram.com/iam__jhay
 
+/n
+/n
+
 <h2>Knowledge & Skills</h2>
 
 ![image](https://github.com/user-attachments/assets/f5e3b2e2-3024-4412-928f-be29e889f215) ![image](https://github.com/user-attachments/assets/d65f072e-3360-4ab0-8fb9-d54c7e46dae3) ![image](https://github.com/user-attachments/assets/9d824fd9-eef5-4b17-864d-6b95783602fa) ![image](https://github.com/user-attachments/assets/554e92ce-48bf-4f12-991c-5a8bb396b724) ![image](https://github.com/user-attachments/assets/3a1bd5bb-c323-424c-bf78-c53456a48247) ![image](https://github.com/user-attachments/assets/2768acbf-1f8c-47d1-be85-558084dea8e8) ![image](https://github.com/user-attachments/assets/4adaaff6-3815-43fc-be63-1af254e429b4) ![image](https://github.com/user-attachments/assets/4e1a0eb4-566b-4f3a-bb7e-93020c06f498) ![image](https://github.com/user-attachments/assets/28367d54-7e7c-427f-9cfb-c545641e3a82) ![image](https://github.com/user-attachments/assets/d702814f-a953-475f-b582-e9ef5bc3e7df) ![image](https://github.com/user-attachments/assets/3473450a-8bfd-4604-902a-d0dc4b0e7912) ![image](https://github.com/user-attachments/assets/b629ea34-37a9-4d9b-99d5-065b78b85c8e)
