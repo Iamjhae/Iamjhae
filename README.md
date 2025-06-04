@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+me+trying+to+make+a+name+for+me;God+Yesterday,+Today+and...Forever)](https://git.io/typing-svg)
+
+
 ![image](https://github.com/user-attachments/assets/00d515e8-67fb-45a2-8f82-b1e86f2c318a)
 
 Hello 
